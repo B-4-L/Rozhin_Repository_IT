@@ -70,6 +70,16 @@ main {
     overflow-y: scroll;
 
 
+main h1
+    font: 150% Georgia;
+    font-weight: bold;
+    color: rgb(88,15,247);
 
+
+main h2
+    font: 130% Georgia;
+    font-weight: bold;
+    font-style: italic; 
+    color: rgb(66,50,231);
 
 
