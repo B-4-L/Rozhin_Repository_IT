@@ -45,3 +45,12 @@ nav a:visited {
     background-color: transparent;
 
   
+nav a:hover
+    color: green;
+
+
+nav li
+    font: 90% Georgia;
+    border-bottom: 1px dotted black;
+
+
