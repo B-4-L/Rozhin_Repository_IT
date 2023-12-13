@@ -31,3 +31,17 @@ nav ul
     text-align: left;
 
 
+nav a:link {
+    text-decoration: none;
+    font: 90% Georgia;
+    color: rgb(145,3,250);
+    background-color: transparent;
+
+
+nav a:visited {
+    text-decoration: none;
+    font: 90% Georgia;
+    color: rgb(29,9,244);
+    background-color: transparent;
+
+  
