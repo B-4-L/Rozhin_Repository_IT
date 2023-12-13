@@ -7,3 +7,10 @@ header {
   background-color: #110003;
   padding: 0;
 
+
+.slogan {
+  font: 120% Georgia;
+  color: rgb(225, 246, 243);
+  background-color: transparent; 
+  text-align: right;
+
