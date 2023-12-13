@@ -54,3 +54,22 @@ nav li
     border-bottom: 1px dotted black;
 
 
+nav h2
+    font: 110% Georgia;
+    color: rgb(201,12,249);
+    border-bottom: 1px dotted rgb(247,150,4);
+
+
+main {
+    position: absolute;
+    top: 10%;
+    left: 22%;
+    width: 78%;
+    height: 80%;
+    padding: 0;
+    overflow-y: scroll;
+
+
+
+
+
